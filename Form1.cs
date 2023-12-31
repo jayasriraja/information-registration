@@ -18,14 +18,14 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 f1 = new Form2();
+            Form2 f1 = new Form2();  // this is used to connect form2
             f1.Show();
             
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form3 f2 = new Form3();
+            Form3 f2 = new Form3();  //this is used to connect form3
             f2.Show();
         }
     }
