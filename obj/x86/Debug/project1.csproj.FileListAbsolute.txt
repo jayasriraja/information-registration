@@ -1,0 +1,12 @@
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\obj\x86\Debug\project1.csproj.GenerateResource.Cache
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\obj\x86\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Jaya\Desktop\Dot Net\project1\WindowsFormsApplication1\bin\Debug\MySqlBackup.dll
